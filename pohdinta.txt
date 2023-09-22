@@ -1,4 +1,3 @@
-Tekijä: Tiina Ylimäki
 
  Tehtävänä oli ohjelmoida klassinen peli: kivi-paperi-sakset. Ideana oli, että tietokone arpoo sattumanvaraisesti oman valintansa
 ja itse voi kirjoittaa oman valintansa. Testausvaiheessa ei saanut olla sattumanvaraisuutta.
@@ -17,3 +16,4 @@ ja itse voi kirjoittaa oman valintansa. Testausvaiheessa ei saanut olla sattuman
 
  Näin ollen testejä tulisi tehdä 9, jotta kaikki valinnat tulisi huomioitua. Näin tein ja testit menivät läpi.
  Sain myös rikottua ohjelmaa, jolloin testit eivät enää menneet läpi.
+ Negatiivisia testejä ei tehty. Mikäli nämä olisi tehty, olisi se pitänyt huomioida koodissa.
